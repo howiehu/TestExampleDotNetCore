@@ -3,13 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpenseService", "ExpenseService\ExpenseService.csproj", "{12E69754-D49A-4EAF-A66B-8D83409FBA8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpenseService", "ExpenseService\ExpenseService.csproj", "{12E69754-D49A-4EAF-A66B-8D83409FBA8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpenseService.Tests", "ExpenseService.Tests\ExpenseService.Tests.csproj", "{D7429E7E-7D93-470A-BD56-FC0A520AF2B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpenseService.Tests", "ExpenseService.Tests\ExpenseService.Tests.csproj", "{D7429E7E-7D93-470A-BD56-FC0A520AF2B3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6733D317-3809-419A-A8B8-271D670072CE}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global
