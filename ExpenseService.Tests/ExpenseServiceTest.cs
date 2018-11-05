@@ -1,6 +1,7 @@
 ﻿namespace ExpenseService.Tests
 {
-    class ExpenseServiceTest
+    public class ExpenseServiceTest
     {
+
     }
 }
