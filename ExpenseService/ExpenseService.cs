@@ -1,0 +1,6 @@
+﻿namespace ExpenseService
+{
+    class ExpenseService
+    {
+    }
+}
